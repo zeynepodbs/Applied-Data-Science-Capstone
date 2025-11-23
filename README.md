@@ -41,5 +41,5 @@ The project follows the standard Data Science methodology:
 * Payload mass and orbit type are significant factors in landing success.
 * The [Insert Best Model Name here, e.g., Decision Tree] model performed best with an accuracy of [Insert Accuracy]%.
 
-## 📜 Certificate
+## Certificate
 This project was completed as part of the **IBM Applied Data Science Professional Certificate**.
