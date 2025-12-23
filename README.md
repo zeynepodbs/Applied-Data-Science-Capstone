@@ -39,7 +39,7 @@ The project follows the standard Data Science methodology:
 * Identified that launch success rates have improved significantly over time.
 * Launch sites like KSC LC-39A and CCAFS SLC-40 have higher traffic.
 * Payload mass and orbit type are significant factors in landing success.
-* The [Insert Best Model Name here, e.g., Decision Tree] model performed best with an accuracy of [Insert Accuracy]%.
+* The Decision Tree model performed best with an accuracy of 94%.
 
 ## Certificate
 This project was completed as part of the **IBM Applied Data Science Professional Certificate**.
